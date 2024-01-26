@@ -10,3 +10,9 @@ The following libraries are required for compiling:
 	EJML: ejml-0.23.jar (required by Stanford CoreNLP)
 	Standford CoreNLP Library: stanford-corenlp-3.9.1.jar
 	Standford CoreNLP Models Library: stanford-corenlp-3.9.1-models.jar
+
+Google and Stanford libraries can be downloaded from their websites (just search the internet). You can download Prudens library from URL: https://tinyurl.com/nestor-library
+
+Download Library Jar
+You can download a version of the NESTOR Library Jar using the following URL: https://tinyurl.com/nestor-library
+

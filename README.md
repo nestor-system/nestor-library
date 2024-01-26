@@ -1,5 +1,5 @@
-# nestor-library
-The Java Object that Implements the Pipeline for the Translation of Natural Language to Symbolic Form using a Prudens Knowledge Base
+# NESTOR Library (nestor-library)
+The Java Object that Implements the Pipeline for the Translation of Natural Language to Symbolic Form using a Prudens Policy
 
 NESTOR library should be compiled with Java 17.0.2 (jdk-17.0.2). This is an Eclipse Project
 

@@ -13,6 +13,6 @@ The following libraries are required for compiling:
 
 Google and Stanford libraries can be downloaded from their websites (just search the internet). You can download Prudens library from URL: https://tinyurl.com/nestor-library
 
-Download Library Jar
+#Download Library Jar
 You can download a version of the NESTOR Library Jar using the following URL: https://tinyurl.com/nestor-library
 
